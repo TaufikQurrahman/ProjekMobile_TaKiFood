@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TakiFood</string>
+    <string name="username">Username</string>
+    <string name="log_in">Log in</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="or">OR CONNECT WITH</string>
+    <string name="sign_up">Sign up</string>
+    <string name="full_name">Full Name</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
